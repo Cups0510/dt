@@ -1,0 +1,8 @@
+asgiref
+dataclasses
+Django
+django-ninja
+pydantic
+pytz
+sqlparse
+typing-extensions
